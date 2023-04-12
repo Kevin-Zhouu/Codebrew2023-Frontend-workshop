@@ -1,27 +1,30 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+.appbar{
+  margin-bottom: 16px
 }
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+.recipe-editor{
+  display:flex;
+  flex-direction: column;
+  max-width:400px;
 }
-
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+.recipe-container{
+  width: 260px;
+  height: 100px;
+  margin-top:16px;
+  margin-right:16px;
+}
+.recipes-container{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding:16px;
+}
+.form-input{
+  margin-bottom:16px;
+}
+body{
+  background-color: rgb(231, 235, 240);
+  margin:0;
+}
+.app-container{
+  margin:26px;
 }
