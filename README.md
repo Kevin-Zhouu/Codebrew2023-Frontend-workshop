@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is the example frontend project for Codebrew 2023 hackathon. Feel free to use this as a template/n
+Link to the slides:
+https://www.canva.com/design/DAFfsIE6uZM/IpnfMh__IyezI9wwlBI-eg/edit?utm_content=DAFfsIE6uZM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Getting Started
 
