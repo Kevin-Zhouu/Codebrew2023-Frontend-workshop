@@ -1,4 +1,4 @@
-This is the example frontend project for Codebrew 2023 hackathon. Feel free to use this as a template/n
+This is the example frontend project for Codebrew 2023 hackathon. Feel free to use this as a template<br>
 Link to the slides:
 https://www.canva.com/design/DAFfsIE6uZM/IpnfMh__IyezI9wwlBI-eg/edit?utm_content=DAFfsIE6uZM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
